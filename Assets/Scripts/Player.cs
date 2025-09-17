@@ -7,6 +7,7 @@ public class Player : MonoBehaviour
     {
         Debug.Log("Test");
         Debug.Log("Test4");
+        Debug.Log("Test3");
     }
 
     // Update is called once per frame
